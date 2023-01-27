@@ -1,0 +1,22 @@
+{
+  "name": "recipe_app__vanillajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adee0411/recipe_app__vanillaJS.git"
+  },
+  "author": "changed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adee0411/recipe_app__vanillaJS/issues"
+  },
+  "homepage": "https://github.com/adee0411/recipe_app__vanillaJS#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
