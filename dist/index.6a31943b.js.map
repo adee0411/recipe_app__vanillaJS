@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,MAAM,CAAC,GAAG,IAAM,IAAI","sources":["src/scripts/index.js"],"sourcesContent":["const add = (a, b) => a + b;\r\n"],"names":[],"version":3,"file":"index.6a31943b.js.map","sourceRoot":"/__parcel_source_root/"}

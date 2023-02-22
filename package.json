@@ -2,9 +2,12 @@
   "name": "recipe_app__vanillajs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/main.js",
+  "source": "index.js",
+  "module": "dist/module.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -17,6 +20,7 @@
   },
   "homepage": "https://github.com/adee0411/recipe_app__vanillaJS#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
     "parcel": "^2.8.3"
   }
 }
